@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kGameEffects</key>
+	<dict>
+		<key>END</key>
+		<string>gameEndScene.m4a</string>
+		<key>PIG</key>
+		<string>pig.m4a</string>
+		<key>ASTROID_CRASH</key>
+		<string>astroidcrash.m4a</string>
+		<key>SPACESUIT_OFF</key>
+		<string>spaceSuitOff.m4a</string>
+		<key>BIRD_CRASH</key>
+		<string>birdcrash.m4a</string>
+		<key>BUTTON_DOWN</key>
+		<string>buttondown.m4a</string>
+		<key>THUNDER</key>
+		<string>thunder.m4a</string>
+		<key>JET_PACK</key>
+		<string>jetpack.m4a</string>
+		<key>PARACHUTE</key>
+		<string>parachutedeploy.m4a</string>
+		<key>PIG_CRASH</key>
+		<string>pig.aiff</string>
+		<key>SATELLITE</key>
+		<string>satelite.m4a</string>
+		<key>SATELLITE_CRASH</key>
+		<string>satiliteCrash.m4a</string>
+		<key>SPUTNIK</key>
+		<string>sputnik.m4a</string>
+		<key>SPLAT</key>
+		<string>splat.m4a</string>
+		<key>BAT</key>
+		<string>bat.m4a</string>
+		<key>UFO</key>
+		<string>ufo.m4a</string>
+		<key>FIREWORK</key>
+		<string>firework.m4a</string>
+		<key>LIGHTNING_BALL</key>
+		<string>lightningBall.m4a</string>
+		<key>RELOAD</key>
+		<string>reload.m4a</string>
+		<key>FART</key>
+		<string>fart.m4a</string>
+		<key>PLANE</key>
+		<string>plane.m4a</string>
+		<key>PLANE_CRASH</key>
+		<string>plane_crash.m4a</string>
+	</dict>
+</dict>
+</plist>

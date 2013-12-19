@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BounceAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>76-80</string>
+		<key>delay</key>
+		<real>0.04</real>
+		<key>filenamePrefix</key>
+		<string>space_bounce</string>
+	</dict>
+	<key>BurningAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>74-98</string>
+		<key>delay</key>
+		<real>0.04</real>
+		<key>filenamePrefix</key>
+		<string>death-space</string>
+	</dict>
+	<key>FallingAnim</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>1-24</string>
+		<key>delay</key>
+		<real>0.04</real>
+		<key>filenamePrefix</key>
+		<string>space_falling</string>
+	</dict>
+	<key>JetpackRepeat</key>
+	<dict>
+		<key>animationFrames</key>
+		<string>13-24</string>
+		<key>delay</key>
+		<real>0.04</real>
+		<key>filenamePrefix</key>
+		<string>space_jetpackman_repeat</string>
+	</dict>
+</dict>
+</plist>
