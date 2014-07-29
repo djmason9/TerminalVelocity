@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96A64C00-5BF2-4684-B19B-50F82CBA7176</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TerminalVelocity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CAC35791-3E00-46D2-B888-93918D5297CA</key>
+		<string>https://github.com/djmason9/TerminalVelocity.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TerminalVelocity.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CAC35791-3E00-46D2-B888-93918D5297CA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/djmason9/TerminalVelocity.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CAC35791-3E00-46D2-B888-93918D5297CA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CAC35791-3E00-46D2-B888-93918D5297CA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TerminalVelocity</string>
+		</dict>
+	</array>
+</dict>
+</plist>
